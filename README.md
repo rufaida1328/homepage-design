@@ -7,7 +7,7 @@ HTML, CSS, JavaScript Tailwind CSS Vite React Js
 **Installation Clone the repository: **
 bash
 Copy code 
-git clone https://github.com/your-username/your-repository.git  
+git clone (https://github.com/rufaida1328/homepage-design)
 **Navigate to the project directory:**
 bash
 Copy code
